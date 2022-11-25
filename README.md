@@ -40,6 +40,7 @@ sudo apt-get install -y nodejs
 
 ## create-react-app 
 ### option 1 
+## inbound rule 3000 port customtcp
 ![image](https://user-images.githubusercontent.com/40553867/204036832-5facd3a9-b7c8-474f-81aa-4c47493a00fb.png)
 
 ![image](https://user-images.githubusercontent.com/40553867/204036879-c528cfaf-2e59-4e79-bf66-4b8bd19d5d7b.png)
@@ -48,7 +49,7 @@ sudo apt-get install -y nodejs
 
 
 ### option 2
-
+## inbound rule 81 port customtcp
 ![image](https://user-images.githubusercontent.com/40553867/204038964-18eebeb9-6bb3-4936-a115-0cd7df198b54.png)
 
 ![image](https://user-images.githubusercontent.com/40553867/204041649-4258717e-3422-4500-838f-a192f13a0b76.png)
