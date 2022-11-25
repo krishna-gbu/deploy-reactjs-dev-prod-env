@@ -47,4 +47,16 @@ sudo apt-get install -y nodejs
 ![image](https://user-images.githubusercontent.com/40553867/204037300-111a9acd-205f-4bf2-a7e2-5ccf77d45fff.png)
 
 
+### option 2
 
+![image](https://user-images.githubusercontent.com/40553867/204038964-18eebeb9-6bb3-4936-a115-0cd7df198b54.png)
+
+![image](https://user-images.githubusercontent.com/40553867/204041649-4258717e-3422-4500-838f-a192f13a0b76.png)
+
+![image](https://user-images.githubusercontent.com/40553867/204041857-75659387-9d44-496b-a21e-e4b518460f19.png)
+
+![image](https://user-images.githubusercontent.com/40553867/204041912-1f52da49-e44a-4a28-8a54-a5924fb64fdd.png)
+
+![image](https://user-images.githubusercontent.com/40553867/204042166-b9a6b52f-c5cc-4435-94de-0e16934b62d2.png)
+
+![image](https://user-images.githubusercontent.com/40553867/204042356-87e7a4ca-29ee-471a-92f6-decec2c68412.png)
