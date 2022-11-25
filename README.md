@@ -24,46 +24,17 @@ git push --set-upstream origin main
 git push
 ```
 
-## add repo to jenkins github-webhook
+## create instance and connect throught ssh
+![image](https://user-images.githubusercontent.com/40553867/204035440-f24c81c2-138e-4048-8878-671ecef0f970.png)
 
-![image](https://user-images.githubusercontent.com/40553867/201891668-1848774a-6921-4ab7-af61-2687adf7c7ae.png)
+![image](https://user-images.githubusercontent.com/40553867/204035606-af562509-dbf2-488f-920b-c07d961376e0.png)
 
-![image](https://user-images.githubusercontent.com/40553867/201890867-130cbd8f-0c23-49b4-998e-c7e04c4e189e.png)
+## install nodejs and check version
 
-## docker installation on target os
-### https://docs.docker.com/engine/install/ubuntu/
-![image](https://user-images.githubusercontent.com/40553867/203580165-02a22959-0907-4a2d-a3ed-6aa7bb459ba3.png)
-
-## add key 
-![image](https://user-images.githubusercontent.com/40553867/203580394-3d6080cc-8391-4608-bbe4-2816daadd0da.png)
-
-![image](https://user-images.githubusercontent.com/40553867/203580629-b5defcc1-ce85-4266-a783-169c57294cb8.png)
-
-![image](https://user-images.githubusercontent.com/40553867/203580764-9bd56ddf-9893-45c9-ad18-a0d46f9546ef.png)
-
-![image](https://user-images.githubusercontent.com/40553867/203580859-c20d41a2-56f6-4d3e-8f14-a5fb48647ac0.png)
-
-![image](https://user-images.githubusercontent.com/40553867/203581120-f11a2dcb-6416-491c-8251-32f07e161ac5.png)
-
-![image](https://user-images.githubusercontent.com/40553867/203581347-40433761-f2b8-4ba4-b654-f2664857bd24.png)
-# approach 1
-#### first install nodejs on machine 
-#### npm install 
-#### npm run build
-
-## docker file
 ```
-FROM nginx:latest
-COPY build/ /usr/share/nginx/html/
+curl -fsSL https://deb.nodesource.com/setup_18.x | bash - 
+sudo apt-get install -y nodejs
 ```
 
-![image](https://user-images.githubusercontent.com/40553867/203738531-279bb9dc-b441-420d-9588-4f4239f0d14a.png)
+![image](https://user-images.githubusercontent.com/40553867/204036207-6a85208f-71da-4c41-8140-1755a5c6fe70.png)
 
-![image](https://user-images.githubusercontent.com/40553867/203738934-aa6b0c5c-aefd-45ad-9bf8-3bfd62283b9b.png)
-
-![image](https://user-images.githubusercontent.com/40553867/203740353-20c9c5d3-3b99-4412-ac27-08aa616fe1d3.png)
-
-
-![image](https://user-images.githubusercontent.com/40553867/203739492-117b79e5-0264-4607-8f81-d96b96cd1b73.png)
-
-![image](https://user-images.githubusercontent.com/40553867/203738170-593861ae-189b-4623-aba0-38a9f06c6d26.png)
