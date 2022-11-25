@@ -38,3 +38,13 @@ sudo apt-get install -y nodejs
 
 ![image](https://user-images.githubusercontent.com/40553867/204036207-6a85208f-71da-4c41-8140-1755a5c6fe70.png)
 
+## create-react-app 
+### option 1 
+![image](https://user-images.githubusercontent.com/40553867/204036832-5facd3a9-b7c8-474f-81aa-4c47493a00fb.png)
+
+![image](https://user-images.githubusercontent.com/40553867/204036879-c528cfaf-2e59-4e79-bf66-4b8bd19d5d7b.png)
+
+![image](https://user-images.githubusercontent.com/40553867/204037300-111a9acd-205f-4bf2-a7e2-5ccf77d45fff.png)
+
+
+
